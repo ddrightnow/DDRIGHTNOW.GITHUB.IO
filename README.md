@@ -1,37 +1,47 @@
-o GitHub Pages
+Pets App
+===================================
 
-You can use the [editor on GitHub](https://github.com/ddrightnow/DDRIGHTNOW.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This app displays a list of pets and their related data that the user inputs.
+Used in a Udacity course in the Android Basics Nanodegree by Google.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pre-requisites
+--------------
 
-### Markdown
+- Android SDK v24
+- Android Build Tools v23.0.3
+- Android Support Repository v24.1.1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Getting Started
+---------------
 
-```markdown
-Syntax highlighted code block
+This sample uses the Gradle build system. To build this project, use the
+"gradlew build" command or use "Import Project" in Android Studio.
 
-# Header 1
-## Header 2
-### Header 3
+Support
+-------
 
-- Bulleted
-- List
+- Google+ Community: https://plus.google.com/communities/105153134372062985968
+- Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
-1. Numbered
-2. List
+Patches are encouraged, and may be submitted by forking this project and
+submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-**Bold** and _Italic_ and `Code` text
+License
+-------
 
-[Link](url) and ![Image](src)
-```
+Copyright 2016 The Android Open Source Project, Inc.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Licensed to the Apache Software Foundation (ASF) under one or more contributor
+license agreements.  See the NOTICE file distributed with this work for
+additional information regarding copyright ownership.  The ASF licenses this
+file to you under the Apache License, Version 2.0 (the "License"); you may not
+use this file except in compliance with the License.  You may obtain a copy of
+the License at
 
-### Jekyll Themes
+http://www.apache.org/licenses/LICENSE-2.0
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ddrightnow/DDRIGHTNOW.GITHUB.IO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
+License for the specific language governing permissions and limitations under
+the License.
