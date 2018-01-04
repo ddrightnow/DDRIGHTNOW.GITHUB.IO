@@ -45,6 +45,7 @@ import com.example.android.pets.data.PetContract.PetEntry;
  */
 public class EditorActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<Cursor> {
+private String a;
 
     /** Identifier for the pet data loader */
     private static final int EXISTING_PET_LOADER = 0;
